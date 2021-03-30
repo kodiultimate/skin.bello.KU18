@@ -187,19 +187,19 @@ msgid "Creator"
 msgstr ""
 
 msgctxt "#31042"
-msgid "Witamy w [B][COLORsnow]Ultimate Premium[/B][/COLOR]!"
+msgid "Welcome to [B][COLORsnow]Bello NERO mod[/B][/COLOR]!"
 msgstr ""
 
 msgctxt "#31043"
 msgstr "
-msgid "Dziękujemy za wybranie [B][COLORsnow]Ultimate Premium[/B][/COLOR]!"
+msgid "Loading [B][COLORsnow]Please Wait[/B][/COLOR]!"
 
 msgctxt "#31044"
-msgid "Zaczynamy"
+msgid "Starting"
 msgstr ""
 
 msgctxt "#31045"
-msgid "Miłego Dnia"
+msgid "Have a Nice Day"
 msgstr ""
 
 msgctxt "#31046"
