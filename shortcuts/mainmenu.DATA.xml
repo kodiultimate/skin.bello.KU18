@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>[B]Settings[/B]</label>
+		<label2 />
+		<icon />
+		<thumb />
+		<action>ActivateWindow(Settings)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[B]Close[/B]</label>
+		<label2 />
+		<icon />
+		<thumb />
+		<action>ActivateWindow(shutdownmenu)</action>
+	</shortcut>
+</shortcuts>
