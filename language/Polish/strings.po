@@ -2,6 +2,7 @@
 # Addon Name: Bello
 # Addon id: skin.bello
 # Addon Provider: Nessus
+# Polish translation : KodiUltimate
 msgid ""
 msgstr ""
 "Project-Id-Version: XBMC Skins\n"
