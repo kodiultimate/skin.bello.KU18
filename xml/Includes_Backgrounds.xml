@@ -142,6 +142,7 @@
 			<height>720</height>
 		    <visible>Player.HasAudio + !Skin.HasSetting(Vis-Visualization) + !String.Contains(Window(Videos).Property(PlayingBackgroundMedia))</visible>
 		</control>
+<!-- Snow option for winter festive :) to make it visible change this inside skin settings -->
 		<include condition="Skin.HasSetting(MakeItSnow) + !Window.IsActive(skinsettings)">SnowBackground</include>
 		<control type="multiimage">
 			<aspectratio>scale</aspectratio>
@@ -334,6 +335,7 @@
 			       | !String.IsEmpty(Window(Home).Property(infodialogs.active))
 			</visible>
 	    </control>
+<!-- Snow option for winter festive :) to make it visible change this inside skin settings -->
 	</include>
 	<include name="SnowBackground">
 		<!-- <control type="image">
