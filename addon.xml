@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="skin.bello.NEROmod" version="09.04.19" name="Bello NERO mod" provider-name="Nessus,eQUIV,iCanuck,Kyo,AdamB">
+<addon id="skin.bello.NEROmod" version="31.05.2021" name="Bello NERO mod" provider-name="Nessus,eQUIV,iCanuck,Kyo,KodiUltimate">
   <requires>
 		<import addon="xbmc.gui" version="5.15.0" />
 		<import addon="script.skinshortcuts" version="1.0.17" />		
